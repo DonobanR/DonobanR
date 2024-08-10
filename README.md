@@ -67,7 +67,7 @@ This space is to give a reflection of my journey in the field of software develo
 <a href="https://www.instagram.com/donoban.r16/?hl=es-la" target="_blank">
 <img src="https://img.shields.io/badge/instagram-%ff5851db.svg?color=f02b9a&style=for-the-badge&logo=instagram&logoColor=white" t=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/donoban-ram%C3%B3n-219ab5275/" target="_blank">
+<a href="https://www.linkedin.com/in/donoban-ramón-219ab5275/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
     
